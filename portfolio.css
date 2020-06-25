@@ -136,7 +136,7 @@ p{
 .placeBox{
   position: ;
   max-width: 300px;
-  height:300px;
+  height:350px;
   margin:0 auto;
   background:#2d089a;
   opacity: 0.;
@@ -171,10 +171,10 @@ p{
 }
 
 .sec2{
-  position: relative;
+  position: relative; 
   height: 100vh;
   background-color: #222523;
-
+ 
 }
 
 .sec2{
